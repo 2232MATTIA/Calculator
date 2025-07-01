@@ -5,13 +5,13 @@ A simple Python library that allows you to do mathematical calculations from str
 ## Installazione
 
 ```bash
-pip install Calculator
+pip install Calculator2
 ```
 
 ## Example
 
 ```python
-from Calculator import calc
+from Calculator2 import calc
 
 test = calc("2+2 * 2")
 print(test)
